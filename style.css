@@ -14,10 +14,27 @@ body{
     background-color: black
 }
 
+header{
+    position: absolute;
+    background-color: white;
+    width: 100vw;
+    height: 70vh ;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h1{
+    padding: 10px;
+}
+
 main{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     display: flex;
-    width:700px ;
-    height: 400px;
+    width:70vw ;
+    height: 50vh;
     background-color: white;
     border-radius: 20px;
     overflow: hidden;
