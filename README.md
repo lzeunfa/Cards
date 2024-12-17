@@ -1,5 +1,5 @@
 Para acessar as duas versões clique:
 
-Versão JS: <a href="https://lzeunfa.github.io/Cards/V.JS/index"></a>
+Versão JS: https://lzeunfa.github.io/Cards/V.JS/index
 
-Versão CSS: <a href="https://lzeunfa.github.io/Cards/V.CSS/index"></a>
+Versão CSS: https://lzeunfa.github.io/Cards/V.CSS/index
